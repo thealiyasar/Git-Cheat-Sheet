@@ -23,7 +23,7 @@
 
 ### 🇦🇿 [Azerbaijan](./Azerbaijani.md)
 
-### 🇰🇷 [Korean](./Korea.md)
+### 🇰🇷 [Korean](./Korean.md)
 
 ### 🇻🇳 [Vietnamese](./Vietnamese.md)
 
