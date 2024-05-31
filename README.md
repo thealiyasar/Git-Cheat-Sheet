@@ -29,4 +29,4 @@
 
 ### 🇵🇱 [Polish](./Polish.md)
 
-### 🇧🇷 [Portuguese](./Portuguese.md)
+### PT [Portuguese](./Portuguese.md)
